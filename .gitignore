@@ -19,7 +19,6 @@
 # Other
 .DS_Store
 .env
-/config/secrets.yml
 node_modules/
 vendor/
 .rspec
