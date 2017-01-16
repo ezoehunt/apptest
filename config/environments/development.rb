@@ -59,5 +59,8 @@ Rails.application.configure do
   # Compress JavaScripts and CSS.
   config.assets.js_compressor = :uglifier
   config.assets.css_compressor = :sass
-  
+
+  # for Devise
+  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+
 end
