@@ -6,7 +6,7 @@ Devise.setup do |config|
   # confirmation, reset password and unlock tokens in the database.
   # Devise will use the `secret_key_base` as its `secret_key`
   # by default. You can change it below and use your own secret key.
-  # config.secret_key = '38be74c7ddc793000d48591206b53b99c7e242cd2bed1ea541fb6ddb3fcecf4b90f6ed96857697718d59b09554a58f724e083bff787fc382121a4b6fdb3eb1b1'
+  # config.secret_key = 'd397637fce03bd01356b0922c5519213ec0a5bfe507130e8a889ade356f05fb9a471e08cbe29468375825fcdb7c19a1f986676828a25f780ea794121d30bf185'
 
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
@@ -108,7 +108,7 @@ Devise.setup do |config|
   config.stretches = Rails.env.test? ? 1 : 11
 
   # Set up a pepper to generate the hashed password.
-  # config.pepper = 'b2c17e04f48e81414d4494c2c21af1596c29cb3c0f47f980b5933c8dc163ef948849a684a72ccb76f6ee1aaed690d50f3cd6e7b2d6598722428ea967b8542538'
+  # config.pepper = 'f4b415a47bfde4a3dd773c9d0450c67ff6c827873b445a8204eb68d1ab235da14e7bd4b2ca766dc8ec93bf9a1fe7bb418f2e6335866b79945382064eace14238'
 
   # Send a notification email when the user's password is changed
   # config.send_password_change_notification = false
@@ -169,7 +169,7 @@ Devise.setup do |config|
   # ==> Configuration for :lockable
   # Defines which strategy will be used to lock an account.
   # :failed_attempts = Locks an account after a number of failed attempts to sign in.
-  # :none            = No lock strategy. You should handle locking by yourself.
+  # :none = No lock strategy. You should handle locking by yourself.
   # config.lock_strategy = :failed_attempts
 
   # Defines which key will be used when locking and unlocking an account
