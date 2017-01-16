@@ -1,6 +1,9 @@
 Rails.application.routes.draw do
 
+  devise_for :users
 mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
+
+#devise_for :admin
 
 # routes regular users
 #scope :app do

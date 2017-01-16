@@ -25,8 +25,9 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 # Admin
+gem 'devise'
 gem 'rails_admin', '~> 1.0'
-#gem 'devise'
+
 #gem 'activeadmin', github: 'activeadmin'
 #gem 'inherited_resources', github: 'activeadmin/inherited_resources'
 
