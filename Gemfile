@@ -38,6 +38,9 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Rails Admin Import
+gem "rails_admin_import", "~> 2.0"
+
 # Admin
 gem 'devise'
 gem 'rails_admin', '~> 1.0'

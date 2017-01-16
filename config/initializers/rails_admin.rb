@@ -10,6 +10,37 @@ RailsAdmin.config do |config|
   end
   config.current_user_method(&:current_user)
 
+  # RAILS ADMIN IMPORT
+  # REQUIRED:
+  # Include the import action
+  # See https://github.com/sferik/rails_admin/wiki/Actions
+  config.actions do
+    import
+  end
+
+  # RAILS ADMIN IMPORT SETTINGS
+  config.model 'User' do
+    import do
+      mapping_key :email
+    end
+  end
+
+  # Optional:
+  # Configure global RailsAdminImport options
+  config.configure_with(:import) do |config|
+    config.logging = true
+  end
+
+  # Optional:
+  # Configure model-specific options using standard RailsAdmin DSL
+  # See https://github.com/sferik/rails_admin/wiki/Railsadmin-DSL
+  #config.model 'User' do
+  #  import do
+  #    include_all_fields
+  #    exclude_fields :secret_token
+  #  end
+  #end
+
   ## == Cancan ==
   # config.authorize_with :cancan
 
