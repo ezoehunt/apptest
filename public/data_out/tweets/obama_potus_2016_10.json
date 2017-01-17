@@ -1,0 +1,462 @@
+[
+  {
+    "id_str": "790236602584948736",
+    "text": "I'll say it: Holy Cow, @Cubs fans. Even this White Sox fan was happy to see Wrigley rocking last night. #FlyTheW",
+    "tweet_created_at": "2016-10-23 17:01:02 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Chicago Cubs",
+        "screen_name": "Cubs",
+        "indices": [
+          23,
+          28
+        ],
+        "id_str": "41144996",
+        "id": 41144996
+      }
+    ],
+    "hashtags": [
+      "FlyTheW"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "789598150541635588",
+    "text": "Check out my newest science advisors! These kids are fearless in using science to tackle our toughest problems. Thanks for the inspiration. https://t.co/qe7h3IfTTZ",
+    "tweet_created_at": "2016-10-21 22:44:03 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CvU3ODPUsAAdrIT.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "789265672404627456",
+    "text": "RT @vj44: We lit the @WhiteHouse pink tonight to commemorate Breast Cancer Awareness Month. Make sure to enroll in #ACA starting Nov. 1 htt…",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities": {
+        "user_mentions": [
+          {
+            "name": "The White House",
+            "screen_name": "WhiteHouse",
+            "indices": [
+              11,
+              22
+            ],
+            "id_str": "30313925",
+            "id": 30313925
+          }
+        ],
+        "media": [
+          {
+            "expanded_url": "http://twitter.com/vj44/status/789237393719255044/photo/1",
+            "indices": [
+              126,
+              149
+            ],
+            "url": "https://t.co/RGc3N8ZkRb",
+            "media_url": "http://pbs.twimg.com/media/CvPvOOdWAAAVM4p.jpg",
+            "id_str": "789237387398348800",
+            "id": 789237387398348800,
+            "media_url_https": "https://pbs.twimg.com/media/CvPvOOdWAAAVM4p.jpg",
+            "sizes": [
+              {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              }
+            ],
+            "display_url": "pic.twitter.com/RGc3N8ZkRb"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ACA",
+            "indices": [
+              105,
+              109
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "geo": {
+      },
+      "id_str": "789237393719255044",
+      "text": "We lit the @WhiteHouse pink tonight to commemorate Breast Cancer Awareness Month. Make sure to enroll in #ACA starting Nov. 1 https://t.co/RGc3N8ZkRb",
+      "id": 789237393719255044,
+      "created_at": "2016-10-20 22:50:32 +0000",
+      "user": {
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "protected": false,
+        "id_str": "595515713",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747505326124044288/rp6NDbPF_normal.jpg",
+        "id": 595515713,
+        "verified": true
+      }
+    },
+    "tweet_created_at": "2016-10-21 00:42:54 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "indices": [
+          3,
+          8
+        ],
+        "id_str": "595515713",
+        "id": 595515713
+      },
+      {
+        "name": "The White House",
+        "screen_name": "WhiteHouse",
+        "indices": [
+          21,
+          32
+        ],
+        "id_str": "30313925",
+        "id": 30313925
+      }
+    ],
+    "hashtags": [
+      "ACA"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "789096632537055232",
+    "text": "Outstanding 3 for 3 debate sweep for @HillaryClinton! Nobody has ever been more prepared to be @POTUS.",
+    "tweet_created_at": "2016-10-20 13:31:12 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Hillary Clinton",
+        "screen_name": "HillaryClinton",
+        "indices": [
+          37,
+          52
+        ],
+        "id_str": "1339835893",
+        "id": 1339835893
+      },
+      {
+        "name": "President Obama",
+        "screen_name": "POTUS",
+        "indices": [
+          95,
+          101
+        ],
+        "id_str": "1536791610",
+        "id": 1536791610
+      }
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "788098889140219904",
+    "text": "For the loved ones we've lost and the ones we can still save, thank you Joe for putting us on the path to ending cancer as we know it. https://t.co/O0twPYcRSc",
+    "tweet_created_at": "2016-10-17 19:26:31 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/O0twPYcRSc"
+    ]
+  },
+  {
+    "id_str": "787662124197830656",
+    "text": "For a century, Planned Parenthood has made it possible for women to determine their own lives. Here's to another #100YearsStrong.",
+    "tweet_created_at": "2016-10-16 14:30:59 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+      "100YearsStrong"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "787047018606784512",
+    "text": "Clearly, we still have more to do to prevent sexual assault and the thinking that leads to it. That starts with us: https://t.co/9PRZB451fS",
+    "tweet_created_at": "2016-10-14 21:46:46 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/9PRZB451fS"
+    ]
+  },
+  {
+    "id_str": "786598777482153988",
+    "text": "Congratulations to one of my favorite poets, Bob Dylan, on a well-deserved Nobel. https://t.co/c9cnANWPCS",
+    "tweet_created_at": "2016-10-13 16:05:37 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/c9cnANWPCS"
+    ]
+  },
+  {
+    "id_str": "786254141182074880",
+    "text": "Now this was fun. Artificial intelligence, space travel—hope you enjoy exploring new frontiers as much as I did. https://t.co/WWBUm5eJ08",
+    "tweet_created_at": "2016-10-12 17:16:09 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/WWBUm5eJ08"
+    ]
+  },
+  {
+    "id_str": "785887247727857664",
+    "text": "On International #DayoftheGirl, we remain committed to providing what we all want for our daughters: a future of limitless possibility.",
+    "tweet_created_at": "2016-10-11 16:58:15 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+      "DayoftheGirl"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "785511825395765248",
+    "text": "Just like Michelle says, when they go low, we go high. @HillaryClinton went high and showed why she'll be a POTUS for all Americans.",
+    "tweet_created_at": "2016-10-10 16:06:27 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Hillary Clinton",
+        "screen_name": "HillaryClinton",
+        "indices": [
+          55,
+          70
+        ],
+        "id_str": "1339835893",
+        "id": 1339835893
+      }
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "784508784316063744",
+    "text": "Voted early today. Make sure you vote too: https://t.co/SUUmUADsHj https://t.co/NMesNhwsaG",
+    "tweet_created_at": "2016-10-07 21:40:44 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CuMikhCUMAAfJl0.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/SUUmUADsHj"
+    ]
+  },
+  {
+    "id_str": "784170804279992320",
+    "text": "Hurricane Matthew is as serious as it gets. Listen to local officials, prepare, take care of each other. https://t.co/Vaf8Xubs0s",
+    "tweet_created_at": "2016-10-06 23:17:43 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/Vaf8Xubs0s"
+    ]
+  },
+  {
+    "id_str": "783771904297447424",
+    "text": "Thank you to every nation that moved to bring the Paris Agreement into force. History will judge today as a turning point for our planet.",
+    "tweet_created_at": "2016-10-05 20:52:38 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "782970909229326336",
+    "text": "Bringing a little Austin to the South Lawn today. https://t.co/qCXwVI0uLH https://t.co/nTb10I3GHP",
+    "tweet_created_at": "2016-10-03 15:49:46 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/Ct2rkEWUsAAnI2K.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/qCXwVI0uLH"
+    ]
+  },
+  {
+    "id_str": "782762238616727552",
+    "text": "What a win by the USA in #RyderCup. Proud to see our guys bring the trophy back home. Arnie is smiling down.",
+    "tweet_created_at": "2016-10-03 02:00:35 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+      "RyderCup"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "782594690738597888",
+    "text": "Gandhiji believed in a world worthy of our children. In joining the Paris Agreement, @narendramodi &amp; the Indian people carry on that legacy.",
+    "tweet_created_at": "2016-10-02 14:54:48 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Narendra Modi",
+        "screen_name": "narendramodi",
+        "indices": [
+          85,
+          98
+        ],
+        "id_str": "18839785",
+        "id": 18839785
+      }
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "782218662228942848",
+    "text": "Paid leave shouldn't be a luxury. It's a basic necessity that we should secure for every working American. https://t.co/OPeQiVPJlK",
+    "tweet_created_at": "2016-10-01 14:00:36 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/OPeQiVPJlK"
+    ]
+  }
+]

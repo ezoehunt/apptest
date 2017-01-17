@@ -10,10 +10,25 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170116195007) do
+ActiveRecord::Schema.define(version: 20170116212151) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "tweets", force: :cascade do |t|
+    t.bigint   "id_str",                  null: false
+    t.datetime "tweet_created_at",        null: false
+    t.string   "name",                    null: false
+    t.text     "text",                    null: false
+    t.string   "screen_name",             null: false
+    t.text     "profile_image_url_https", null: false
+    t.jsonb    "user_mentions"
+    t.text     "media_url_https"
+    t.jsonb    "hashtags"
+    t.jsonb    "urls"
+    t.datetime "created_at",              null: false
+    t.datetime "updated_at",              null: false
+  end
 
   create_table "users", force: :cascade do |t|
     t.string   "email",                  default: "", null: false

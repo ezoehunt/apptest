@@ -40,6 +40,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Rails Admin Import
 gem "rails_admin_import", "~> 2.0"
+gem "json"
 
 # Admin
 gem 'devise'

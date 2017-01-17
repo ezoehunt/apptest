@@ -9,6 +9,8 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
+log.*
+logs.*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
@@ -25,3 +27,4 @@ vendor/
 /coverage/
 /spec/tmp
 .sass-cache/
+/public/data_in

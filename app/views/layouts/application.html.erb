@@ -9,10 +9,91 @@
   </head>
 
   <body>
-    
+
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
 
     <%= yield %>
   </body>
 </html>
+
+<%=
+
+file = File.read('/Users/mozilla/Sites/bestofpotus/public/data_in/tweets/obama_potus_2016_10.json')
+fields = JSON.parse file
+
+fields.each do |key,value|
+  # Change "created_at" key to avoid conflict
+  # with railsadmin column name
+  key["tweet_created_at"] = key["created_at"]
+  # Delete parts we dont need
+  key.delete('source')
+  key.delete('geo')
+  key.delete('id')
+  # Flatten profile info we need
+  key["user"].each do |k,v|
+    if k == "name"
+      key["name"] = v
+    end
+    if k == "screen_name"
+      key["screen_name"] = v
+    end
+    if k == "profile_image_url_https"
+      key["profile_image_url_https"] = v
+    end
+  end
+  # Flatten user mentions we need
+  key["entities"].each do |k,v|
+    if k == "user_mentions"
+      key["user_mentions"] = v
+    end
+    # Flatten media url we need
+    if k == "media"
+      v.each do |k1,v1|
+        k1.each do |k2,v2|
+          if k2 == "media_url_https"
+            key['media_url_https'] = v2
+          end
+        end
+      end
+    end
+    if k == "hashtags"
+      # Create empty array to hold all hashtags
+      key["hashtags"] = []
+      v.each do |k1,v1|
+        k1.each do |k2,v2|
+          if k2 == "text"
+            # Add all hashtags to array
+            key["hashtags"] << v2
+          end
+        end
+      end
+    end
+    #SAVE
+    #if k == "hashtags"
+    #  key["hashtags"] = v
+    #end
+    if k == "urls"
+      # Create empty array to hold all urls
+      key["urls"] = []
+      v.each do |k1,v1|
+        k1.each do |k2,v2|
+          if k2 == "url"
+            # Add all urls to array
+            key["urls"] << v2
+          end
+        end
+      end
+    end
+  end
+  # Delete orig "created_at" + "user" + "entities"
+  key.delete('created_at')
+  key.delete('user')
+  key.delete('entities')
+end
+
+File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2016_10.json', "w") do |f|
+  f.puts JSON.pretty_generate(fields)
+end
+
+%>

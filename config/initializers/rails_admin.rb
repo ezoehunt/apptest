@@ -19,9 +19,10 @@ RailsAdmin.config do |config|
   end
 
   # RAILS ADMIN IMPORT SETTINGS
-  config.model 'User' do
+  config.model 'Tweet' do
     import do
-      mapping_key :email
+      include_all_fields
+      mapping_key :id_str
     end
   end
 
