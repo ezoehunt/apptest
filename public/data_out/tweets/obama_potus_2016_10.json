@@ -1,41 +1,199 @@
 [
   {
-    "id_str": "790236602584948736",
-    "text": "I'll say it: Holy Cow, @Cubs fans. Even this White Sox fan was happy to see Wrigley rocking last night. #FlyTheW",
-    "tweet_created_at": "2016-10-23 17:01:02 +0000",
+    "id_str": "627211041466941441",
+    "text": "Launching a pilot program to help students in prison pay for college, because everyone willing to work for it deserves a second chance.",
+    "tweet_created_at": "2015-07-31 20:15:39 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "626794365869010945",
+    "text": "Happy 50th birthday, Medicare and Medicaid! Two programs, one promise: that every American deserves a basic measure of dignity and security.",
+    "tweet_created_at": "2015-07-30 16:39:56 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "625411767414444032",
+    "text": "25 years of the ADA and Americans with disabilities are breaking more barriers than ever, making all of us more free. Let's keep going.",
+    "tweet_created_at": "2015-07-26 21:05:59 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "624691954224365568",
+    "text": "Proud to be the first American President to visit Kenya. Happy to see family, and to talk with young Kenyans about the future.",
+    "tweet_created_at": "2015-07-24 21:25:42 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "623661992952377344",
+    "text": "E.L. Doctorow was one of America's greatest novelists. His books taught me much, and he will be missed.",
+    "tweet_created_at": "2015-07-22 01:13:00 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "623502798366351360",
+    "text": "RT @TheIranDeal: The historic #IranDeal succeeds in verifying that Iran cannot obtain a nuclear weapon. Follow to get the facts: http://t.c…",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities": {
+        "user_mentions": [
+
+        ],
+        "media": [
+
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              13,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "indices": [
+              112,
+              134
+            ],
+            "url": "http://t.co/Ua7p0Qzryo",
+            "expanded_url": "http://go.wh.gov/IranDealFacts",
+            "display_url": "go.wh.gov/IranDealFacts"
+          }
+        ]
+      },
+      "geo": {
+      },
+      "id_str": "623500231666221056",
+      "text": "The historic #IranDeal succeeds in verifying that Iran cannot obtain a nuclear weapon. Follow to get the facts: http://t.co/Ua7p0Qzryo",
+      "id": 623500231666221056,
+      "created_at": "2015-07-21 14:30:13 +0000",
+      "user": {
+        "name": "The Iran Deal",
+        "screen_name": "TheIranDeal",
+        "protected": false,
+        "id_str": "3281853858",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623483767231873024/sVfQ7OH0_normal.jpg",
+        "id": 3281853858,
+        "verified": true
+      }
+    },
+    "tweet_created_at": "2015-07-21 14:40:25 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
       {
-        "name": "Chicago Cubs",
-        "screen_name": "Cubs",
+        "name": "The Iran Deal",
+        "screen_name": "TheIranDeal",
         "indices": [
-          23,
-          28
+          3,
+          15
         ],
-        "id_str": "41144996",
-        "id": 41144996
+        "id_str": "3281853858",
+        "id": 3281853858
       }
     ],
     "hashtags": [
-      "FlyTheW"
+      "IranDeal"
     ],
     "urls": [
 
     ]
   },
   {
-    "id_str": "789598150541635588",
-    "text": "Check out my newest science advisors! These kids are fearless in using science to tackle our toughest problems. Thanks for the inspiration. https://t.co/qe7h3IfTTZ",
-    "tweet_created_at": "2016-10-21 22:44:03 +0000",
+    "id_str": "623137065341952000",
+    "text": "Just got this new blue marble photo from @NASA. A beautiful reminder that we need to protect the only planet we have. http://t.co/JQ3174P0LF",
+    "tweet_created_at": "2015-07-20 14:27:08 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "NASA",
+        "screen_name": "NASA",
+        "indices": [
+          41,
+          46
+        ],
+        "id_str": "11348282",
+        "id": 11348282
+      }
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CKXT2ptWIAAQ6lk.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "622147491862028289",
+    "text": "Had a great visit today with Emma Didlake - our oldest living veteran at 110-years-young! She's a true American hero. http://t.co/EeeIC3AK4A",
+    "tweet_created_at": "2015-07-17 20:54:55 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
 
     ],
-    "media_url_https": "https://pbs.twimg.com/media/CvU3ODPUsAAdrIT.jpg",
+    "media_url_https": "https://pbs.twimg.com/media/CKJPxjcUEAAy7Kl.jpg",
     "hashtags": [
 
     ],
@@ -44,71 +202,545 @@
     ]
   },
   {
-    "id_str": "789265672404627456",
-    "text": "RT @vj44: We lit the @WhiteHouse pink tonight to commemorate Breast Cancer Awareness Month. Make sure to enroll in #ACA starting Nov. 1 htt…",
+    "id_str": "622091025541136384",
+    "text": "Congrats to Oregon on passing two years of free community college! Every hardworking student deserves access to higher education.",
+    "tweet_created_at": "2015-07-17 17:10:33 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "621133763385425920",
+    "text": "Pluto just had its first visitor! Thanks @NASA - it's a great day for discovery and American leadership. http://t.co/FfztBSMbK0",
+    "tweet_created_at": "2015-07-15 01:46:43 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "NASA",
+        "screen_name": "NASA",
+        "indices": [
+          41,
+          46
+        ],
+        "id_str": "11348282",
+        "id": 11348282
+      }
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CJ611aJUkAAGaqP.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "621121462649397249",
+    "text": "Good conversation with Tom Friedman on the deal we reached with Iran. It's a major step toward a safer world.  https://t.co/xwSrH9IoFG",
+    "tweet_created_at": "2015-07-15 00:57:51 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/xwSrH9IoFG"
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621087343253057541",
+    "id_str": "621088588583800832",
+    "in_reply_to_user_id": 1536791610,
+    "text": "Mass incarceration doesn't work. Let's build communities that give kids a shot at success and prisons that prepare people for a 2nd chance.",
+    "in_reply_to_status_id": 621087343253057541,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:47:13 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621086198254145536",
+    "id_str": "621087343253057541",
+    "in_reply_to_user_id": 1536791610,
+    "text": "We could eliminate tuition at every public college and university in America with the $80 billion we spend each year on incarcerations.",
+    "in_reply_to_status_id": 621086198254145536,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:42:16 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621085397007888384",
+    "id_str": "621086198254145536",
+    "in_reply_to_user_id": 1536791610,
+    "text": "The $80 billion we spend each year on incarcerations could double the salary of every high school teacher in America.",
+    "in_reply_to_status_id": 621085397007888384,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:37:43 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621084469970214914",
+    "id_str": "621085397007888384",
+    "in_reply_to_user_id": 1536791610,
+    "text": "The $80 billion we spend each year to keep people incarcerated could pay for universal pre-K for every 3-year-old and 4-year-old in America.",
+    "in_reply_to_status_id": 621084469970214914,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:34:32 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621083313063763968",
+    "id_str": "621084469970214914",
+    "in_reply_to_user_id": 1536791610,
+    "text": "In 1980, there were 500,000 people in American jails. Today, there are 2.2 million. Many belong. But too many are nonviolent offenders.",
+    "in_reply_to_status_id": 621083313063763968,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:30:51 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621081946236563456",
+    "id_str": "621083313063763968",
+    "in_reply_to_user_id": 1536791610,
+    "text": "America keeps more people behind bars than the top 35 European countries combined.",
+    "in_reply_to_status_id": 621081946236563456,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:26:15 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "621081548029345792",
+    "id_str": "621081946236563456",
+    "in_reply_to_user_id": 1536791610,
+    "text": "America is home to 5% of the world's population, but 25% of the world's prisoners.",
+    "in_reply_to_status_id": 621081548029345792,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-14 22:20:49 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "621081548029345792",
+    "text": "Just spoke to the NAACP about criminal justice reform, something many broadly agree on. Some stats:",
+    "tweet_created_at": "2015-07-14 22:19:14 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "619509587272691712",
+    "text": "South Carolina taking down the confederate flag - a signal of good will and healing, and a meaningful step towards a better future.",
+    "tweet_created_at": "2015-07-10 14:12:50 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "617860799953010688",
+    "text": "What a win for Team USA! Great game @CarliLloyd! Your country is so proud of all of you. Come visit the White House with the World Cup soon.",
+    "tweet_created_at": "2015-07-06 01:01:08 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Carli Lloyd",
+        "screen_name": "CarliLloyd",
+        "indices": [
+          36,
+          47
+        ],
+        "id_str": "110195330",
+        "id": 110195330
+      }
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "in_reply_to_status_id_str": "617430014422843392",
+    "id_str": "617542692952764417",
+    "in_reply_to_user_id": 1536791610,
+    "text": "http://t.co/Ft3DwYWRJv",
+    "in_reply_to_status_id": 617430014422843392,
+    "in_reply_to_screen_name": "POTUS",
+    "in_reply_to_user_id_str": "1536791610",
+    "tweet_created_at": "2015-07-05 03:57:06 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CJHzzhOWIAAWQNk.jpg",
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "617430014422843392",
+    "text": "It doesn't get much better than celebrating America with the people you love. Happy Fourth of July, everyone!",
+    "tweet_created_at": "2015-07-04 20:29:21 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "616441802023960576",
+    "text": "It's not mine; just a loaner. Maybe you can come play at the White House sometime instead?  https://t.co/srZKB6plzz",
+    "tweet_created_at": "2015-07-02 03:02:33 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/srZKB6plzz"
+    ]
+  },
+  {
+    "id_str": "616418071683665920",
+    "text": "RT @hotelkeys: @POTUS \n23yrold recent grad has full-time job but no insurance. Peace of mind that she can be on our plan. #ACAWorks",
     "retweeted_status": {
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "entities": {
         "user_mentions": [
           {
-            "name": "The White House",
-            "screen_name": "WhiteHouse",
+            "name": "President Obama",
+            "screen_name": "POTUS",
             "indices": [
-              11,
-              22
+              0,
+              6
             ],
-            "id_str": "30313925",
-            "id": 30313925
+            "id_str": "1536791610",
+            "id": 1536791610
           }
         ],
         "media": [
-          {
-            "expanded_url": "http://twitter.com/vj44/status/789237393719255044/photo/1",
-            "indices": [
-              126,
-              149
-            ],
-            "url": "https://t.co/RGc3N8ZkRb",
-            "media_url": "http://pbs.twimg.com/media/CvPvOOdWAAAVM4p.jpg",
-            "id_str": "789237387398348800",
-            "id": 789237387398348800,
-            "media_url_https": "https://pbs.twimg.com/media/CvPvOOdWAAAVM4p.jpg",
-            "sizes": [
-              {
-                "h": 510,
-                "resize": "fit",
-                "w": 680
-              },
-              {
-                "h": 1536,
-                "resize": "fit",
-                "w": 2048
-              },
-              {
-                "h": 900,
-                "resize": "fit",
-                "w": 1200
-              },
-              {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              },
-              {
-                "h": 1536,
-                "resize": "fit",
-                "w": 2048
-              }
-            ],
-            "display_url": "pic.twitter.com/RGc3N8ZkRb"
-          }
+
         ],
         "hashtags": [
           {
+            "text": "ACAWorks",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "in_reply_to_status_id_str": "616340901351264256",
+      "geo": {
+      },
+      "id_str": "616341623128084480",
+      "in_reply_to_user_id": 1536791610,
+      "text": "@POTUS \n23yrold recent grad has full-time job but no insurance. Peace of mind that she can be on our plan. #ACAWorks",
+      "id": 616341623128084480,
+      "in_reply_to_status_id": 616340901351264256,
+      "created_at": "2015-07-01 20:24:28 +0000",
+      "in_reply_to_screen_name": "POTUS",
+      "in_reply_to_user_id_str": "1536791610",
+      "user": {
+        "name": "Connie C. Keys",
+        "screen_name": "hotelkeys",
+        "protected": false,
+        "id_str": "100005598",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735454188621139969/y6wP4Sce_normal.jpg",
+        "id": 100005598,
+        "verified": false
+      }
+    },
+    "tweet_created_at": "2015-07-02 01:28:15 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Connie C. Keys",
+        "screen_name": "hotelkeys",
+        "indices": [
+          3,
+          13
+        ],
+        "id_str": "100005598",
+        "id": 100005598
+      },
+      {
+        "name": "President Obama",
+        "screen_name": "POTUS",
+        "indices": [
+          15,
+          21
+        ],
+        "id_str": "1536791610",
+        "id": 1536791610
+      }
+    ],
+    "hashtags": [
+      "ACAWorks"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "616417443246907392",
+    "text": "RT @crazywritinfool: @POTUS #ACAWorks because I could switch insurance providers to get a lower rate. Couldn't before due to \"preexisting c…",
+    "retweeted_status": {
+      "source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter for Mac</a>",
+      "entities": {
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "screen_name": "POTUS",
+            "indices": [
+              0,
+              6
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610
+          }
+        ],
+        "media": [
+
+        ],
+        "hashtags": [
+          {
+            "text": "ACAWorks",
+            "indices": [
+              7,
+              16
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "in_reply_to_status_id_str": "616340901351264256",
+      "geo": {
+      },
+      "id_str": "616376283870527488",
+      "in_reply_to_user_id": 1536791610,
+      "text": "@POTUS #ACAWorks because I could switch insurance providers to get a lower rate. Couldn't before due to \"preexisting conditions\"",
+      "id": 616376283870527488,
+      "in_reply_to_status_id": 616340901351264256,
+      "created_at": "2015-07-01 22:42:12 +0000",
+      "in_reply_to_screen_name": "POTUS",
+      "in_reply_to_user_id_str": "1536791610",
+      "user": {
+        "name": "Katriena Knights",
+        "screen_name": "crazywritinfool",
+        "protected": false,
+        "id_str": "7713582",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745011872823316480/3yb-Q0Cu_normal.jpg",
+        "id": 7713582,
+        "verified": false
+      }
+    },
+    "tweet_created_at": "2015-07-02 01:25:45 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+      {
+        "name": "Katriena Knights",
+        "screen_name": "crazywritinfool",
+        "indices": [
+          3,
+          19
+        ],
+        "id_str": "7713582",
+        "id": 7713582
+      },
+      {
+        "name": "President Obama",
+        "screen_name": "POTUS",
+        "indices": [
+          21,
+          27
+        ],
+        "id_str": "1536791610",
+        "id": 1536791610
+      }
+    ],
+    "hashtags": [
+      "ACAWorks"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "616416832157818880",
+    "text": "RT @RandynAverysMom: #AskPOTUS my dad is a small biz owner and never had insurance. #ACA allowed him access to life saving cancer screening…",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities": {
+        "user_mentions": [
+
+        ],
+        "media": [
+
+        ],
+        "hashtags": [
+          {
+            "text": "AskPOTUS",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
             "text": "ACA",
             "indices": [
-              105,
-              109
+              63,
+              67
+            ]
+          },
+          {
+            "text": "ACAWorks",
+            "indices": [
+              130,
+              139
             ]
           }
         ],
@@ -118,44 +750,106 @@
       },
       "geo": {
       },
-      "id_str": "789237393719255044",
-      "text": "We lit the @WhiteHouse pink tonight to commemorate Breast Cancer Awareness Month. Make sure to enroll in #ACA starting Nov. 1 https://t.co/RGc3N8ZkRb",
-      "id": 789237393719255044,
-      "created_at": "2016-10-20 22:50:32 +0000",
+      "id_str": "616315904578723840",
+      "text": "#AskPOTUS my dad is a small biz owner and never had insurance. #ACA allowed him access to life saving cancer screening this year. #ACAWorks",
+      "id": 616315904578723840,
+      "created_at": "2015-07-01 18:42:16 +0000",
       "user": {
-        "name": "Valerie Jarrett",
-        "screen_name": "vj44",
+        "name": "Ashley",
+        "screen_name": "RandynAverysMom",
         "protected": false,
-        "id_str": "595515713",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747505326124044288/rp6NDbPF_normal.jpg",
-        "id": 595515713,
-        "verified": true
+        "id_str": "17515958",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499735092177010690/7qcZLZBi_normal.jpeg",
+        "id": 17515958,
+        "verified": false
       }
     },
-    "tweet_created_at": "2016-10-21 00:42:54 +0000",
+    "tweet_created_at": "2015-07-02 01:23:19 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
       {
-        "name": "Valerie Jarrett",
-        "screen_name": "vj44",
+        "name": "Ashley",
+        "screen_name": "RandynAverysMom",
         "indices": [
           3,
-          8
+          19
         ],
-        "id_str": "595515713",
-        "id": 595515713
+        "id_str": "17515958",
+        "id": 17515958
+      }
+    ],
+    "hashtags": [
+      "AskPOTUS",
+      "ACA"
+    ],
+    "urls": [
+
+    ]
+  },
+  {
+    "id_str": "616416358096572416",
+    "text": "RT @NotoriousLLT: Sister is legally blind &amp; on disability b/c of glaucoma. She needs care to keep sight she has left. With #ACA she can aff…",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities": {
+        "user_mentions": [
+
+        ],
+        "media": [
+
+        ],
+        "hashtags": [
+          {
+            "text": "ACA",
+            "indices": [
+              109,
+              113
+            ]
+          },
+          {
+            "text": "ACAWorks",
+            "indices": [
+              133,
+              142
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
       },
+      "geo": {
+      },
+      "id_str": "616343773090549765",
+      "text": "Sister is legally blind &amp; on disability b/c of glaucoma. She needs care to keep sight she has left. With #ACA she can afford it! #ACAWorks",
+      "id": 616343773090549765,
+      "created_at": "2015-07-01 20:33:01 +0000",
+      "user": {
+        "name": "The_Notorious_PhD",
+        "screen_name": "NotoriousLLT",
+        "protected": false,
+        "id_str": "1016746238",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/680224064867299328/v9rv29K4_normal.jpg",
+        "id": 1016746238,
+        "verified": false
+      }
+    },
+    "tweet_created_at": "2015-07-02 01:21:26 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
       {
-        "name": "The White House",
-        "screen_name": "WhiteHouse",
+        "name": "The_Notorious_PhD",
+        "screen_name": "NotoriousLLT",
         "indices": [
-          21,
-          32
+          3,
+          16
         ],
-        "id_str": "30313925",
-        "id": 30313925
+        "id_str": "1016746238",
+        "id": 1016746238
       }
     ],
     "hashtags": [
@@ -166,45 +860,26 @@
     ]
   },
   {
-    "id_str": "789096632537055232",
-    "text": "Outstanding 3 for 3 debate sweep for @HillaryClinton! Nobody has ever been more prepared to be @POTUS.",
-    "tweet_created_at": "2016-10-20 13:31:12 +0000",
+    "id_str": "616340901351264256",
+    "text": "Gotta go, but this was fun. Let's keep the health care conversation going - share how the #ACAWorks for you or your family.",
+    "tweet_created_at": "2015-07-01 20:21:36 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
-      {
-        "name": "Hillary Clinton",
-        "screen_name": "HillaryClinton",
-        "indices": [
-          37,
-          52
-        ],
-        "id_str": "1339835893",
-        "id": 1339835893
-      },
-      {
-        "name": "President Obama",
-        "screen_name": "POTUS",
-        "indices": [
-          95,
-          101
-        ],
-        "id_str": "1536791610",
-        "id": 1536791610
-      }
+
     ],
     "hashtags": [
-
+      "ACAWorks"
     ],
     "urls": [
 
     ]
   },
   {
-    "id_str": "788098889140219904",
-    "text": "For the loved ones we've lost and the ones we can still save, thank you Joe for putting us on the path to ending cancer as we know it. https://t.co/O0twPYcRSc",
-    "tweet_created_at": "2016-10-17 19:26:31 +0000",
+    "id_str": "616339969125302276",
+    "text": "butler's a great player on o and d; let's sign him up long term. go bulls! https://t.co/IqbyUmcbmJ",
+    "tweet_created_at": "2015-07-01 20:17:54 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -215,30 +890,13 @@
 
     ],
     "urls": [
-      "https://t.co/O0twPYcRSc"
+      "https://t.co/IqbyUmcbmJ"
     ]
   },
   {
-    "id_str": "787662124197830656",
-    "text": "For a century, Planned Parenthood has made it possible for women to determine their own lives. Here's to another #100YearsStrong.",
-    "tweet_created_at": "2016-10-16 14:30:59 +0000",
-    "name": "President Obama",
-    "screen_name": "POTUS",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
-    "user_mentions": [
-
-    ],
-    "hashtags": [
-      "100YearsStrong"
-    ],
-    "urls": [
-
-    ]
-  },
-  {
-    "id_str": "787047018606784512",
-    "text": "Clearly, we still have more to do to prevent sexual assault and the thinking that leads to it. That starts with us: https://t.co/9PRZB451fS",
-    "tweet_created_at": "2016-10-14 21:46:46 +0000",
+    "id_str": "616339733132804096",
+    "text": "people lack info/turned off by political noise. w court case done, let's focus on getting people signed up. https://t.co/vFCDgMXSE9",
+    "tweet_created_at": "2015-07-01 20:16:58 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -249,13 +907,13 @@
 
     ],
     "urls": [
-      "https://t.co/9PRZB451fS"
+      "https://t.co/vFCDgMXSE9"
     ]
   },
   {
-    "id_str": "786598777482153988",
-    "text": "Congratulations to one of my favorite poets, Bob Dylan, on a well-deserved Nobel. https://t.co/c9cnANWPCS",
-    "tweet_created_at": "2016-10-13 16:05:37 +0000",
+    "id_str": "616338933962670080",
+    "text": "pushing to make 2 yrs comm college free; permit refinancing on student loans; push colleges to keep tuition low https://t.co/dTbTNDQSII",
+    "tweet_created_at": "2015-07-01 20:13:47 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -266,13 +924,13 @@
 
     ],
     "urls": [
-      "https://t.co/c9cnANWPCS"
+      "https://t.co/dTbTNDQSII"
     ]
   },
   {
-    "id_str": "786254141182074880",
-    "text": "Now this was fun. Artificial intelligence, space travel—hope you enjoy exploring new frontiers as much as I did. https://t.co/WWBUm5eJ08",
-    "tweet_created_at": "2016-10-12 17:16:09 +0000",
+    "id_str": "616338528138608640",
+    "text": "respect the nyt, but not buying peas in guac. onions, garlic, hot peppers. classic. https://t.co/MEEI8QHH1V",
+    "tweet_created_at": "2015-07-01 20:12:10 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -283,74 +941,13 @@
 
     ],
     "urls": [
-      "https://t.co/WWBUm5eJ08"
+      "https://t.co/MEEI8QHH1V"
     ]
   },
   {
-    "id_str": "785887247727857664",
-    "text": "On International #DayoftheGirl, we remain committed to providing what we all want for our daughters: a future of limitless possibility.",
-    "tweet_created_at": "2016-10-11 16:58:15 +0000",
-    "name": "President Obama",
-    "screen_name": "POTUS",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
-    "user_mentions": [
-
-    ],
-    "hashtags": [
-      "DayoftheGirl"
-    ],
-    "urls": [
-
-    ]
-  },
-  {
-    "id_str": "785511825395765248",
-    "text": "Just like Michelle says, when they go low, we go high. @HillaryClinton went high and showed why she'll be a POTUS for all Americans.",
-    "tweet_created_at": "2016-10-10 16:06:27 +0000",
-    "name": "President Obama",
-    "screen_name": "POTUS",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
-    "user_mentions": [
-      {
-        "name": "Hillary Clinton",
-        "screen_name": "HillaryClinton",
-        "indices": [
-          55,
-          70
-        ],
-        "id_str": "1339835893",
-        "id": 1339835893
-      }
-    ],
-    "hashtags": [
-
-    ],
-    "urls": [
-
-    ]
-  },
-  {
-    "id_str": "784508784316063744",
-    "text": "Voted early today. Make sure you vote too: https://t.co/SUUmUADsHj https://t.co/NMesNhwsaG",
-    "tweet_created_at": "2016-10-07 21:40:44 +0000",
-    "name": "President Obama",
-    "screen_name": "POTUS",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
-    "user_mentions": [
-
-    ],
-    "media_url_https": "https://pbs.twimg.com/media/CuMikhCUMAAfJl0.jpg",
-    "hashtags": [
-
-    ],
-    "urls": [
-      "https://t.co/SUUmUADsHj"
-    ]
-  },
-  {
-    "id_str": "784170804279992320",
-    "text": "Hurricane Matthew is as serious as it gets. Listen to local officials, prepare, take care of each other. https://t.co/Vaf8Xubs0s",
-    "tweet_created_at": "2016-10-06 23:17:43 +0000",
+    "id_str": "616338019843461121",
+    "text": "was listening to outkast/liberation and the black keys/lonely boy this morning. https://t.co/1DP6CRdwlm",
+    "tweet_created_at": "2015-07-01 20:10:09 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -361,13 +958,13 @@
 
     ],
     "urls": [
-      "https://t.co/Vaf8Xubs0s"
+      "https://t.co/1DP6CRdwlm"
     ]
   },
   {
-    "id_str": "783771904297447424",
-    "text": "Thank you to every nation that moved to bring the Paris Agreement into force. History will judge today as a turning point for our planet.",
-    "tweet_created_at": "2016-10-05 20:52:38 +0000",
+    "id_str": "616337692582899712",
+    "text": "there's a hardship exemption; fine only applies to folks who can afford insurance but choose not to. https://t.co/XWFEKbZCaT",
+    "tweet_created_at": "2015-07-01 20:08:51 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -378,31 +975,30 @@
 
     ],
     "urls": [
-
+      "https://t.co/XWFEKbZCaT"
     ]
   },
   {
-    "id_str": "782970909229326336",
-    "text": "Bringing a little Austin to the South Lawn today. https://t.co/qCXwVI0uLH https://t.co/nTb10I3GHP",
-    "tweet_created_at": "2016-10-03 15:49:46 +0000",
+    "id_str": "616337090767405056",
+    "text": "have principles and issues you are passionate about, and act; worry more about doing something than being something. https://t.co/QqbgflhXDY",
+    "tweet_created_at": "2015-07-01 20:06:28 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
 
     ],
-    "media_url_https": "https://pbs.twimg.com/media/Ct2rkEWUsAAnI2K.jpg",
     "hashtags": [
 
     ],
     "urls": [
-      "https://t.co/qCXwVI0uLH"
+      "https://t.co/QqbgflhXDY"
     ]
   },
   {
-    "id_str": "782762238616727552",
-    "text": "What a win by the USA in #RyderCup. Proud to see our guys bring the trophy back home. Arnie is smiling down.",
-    "tweet_created_at": "2016-10-03 02:00:35 +0000",
+    "id_str": "616336742854078464",
+    "text": "EX-IM bank helps US companies export; that means good paying american jobs. optimistic that congress gets it done. https://t.co/UeBhgiL64B",
+    "tweet_created_at": "2015-07-01 20:05:05 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -410,42 +1006,102 @@
 
     ],
     "hashtags": [
-      "RyderCup"
+
     ],
     "urls": [
-
+      "https://t.co/UeBhgiL64B"
     ]
   },
   {
-    "id_str": "782594690738597888",
-    "text": "Gandhiji believed in a world worthy of our children. In joining the Paris Agreement, @narendramodi &amp; the Indian people carry on that legacy.",
-    "tweet_created_at": "2016-10-02 14:54:48 +0000",
+    "id_str": "616336192443916289",
+    "text": "now's time to encourage states that held off for political reasons to do the right thing; contact state officials! https://t.co/QqUY3S9MoC",
+    "tweet_created_at": "2015-07-01 20:02:53 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
     "user_mentions": [
-      {
-        "name": "Narendra Modi",
-        "screen_name": "narendramodi",
-        "indices": [
-          85,
-          98
-        ],
-        "id_str": "18839785",
-        "id": 18839785
-      }
+
     ],
     "hashtags": [
 
+    ],
+    "urls": [
+      "https://t.co/QqUY3S9MoC"
+    ]
+  },
+  {
+    "id_str": "616335694928199680",
+    "text": "congratulations! hope you guys are getting sleep. nothing beats babies! https://t.co/ymGM0HARad",
+    "tweet_created_at": "2015-07-01 20:00:55 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/ymGM0HARad"
+    ]
+  },
+  {
+    "id_str": "616335347174232064",
+    "text": "not true - like last year, insurers request premium hikes, but must be approved; expect final increases to be less   https://t.co/WfJI2AOLkP",
+    "tweet_created_at": "2015-07-01 19:59:32 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/WfJI2AOLkP"
+    ]
+  },
+  {
+    "id_str": "616334401157378048",
+    "text": "we need to encourage states to take advantage of medicaid expansion; could insure 4 mil more people in 22 states! https://t.co/S9RlkVB1An",
+    "tweet_created_at": "2015-07-01 19:55:46 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "hashtags": [
+
+    ],
+    "urls": [
+      "https://t.co/S9RlkVB1An"
+    ]
+  },
+  {
+    "id_str": "616334258697859073",
+    "text": "Alright, let's do this. Ready to answer your health care questions. Keep 'em coming with #AskPOTUS. http://t.co/wK8RDF2H0i",
+    "tweet_created_at": "2015-07-01 19:55:12 +0000",
+    "name": "President Obama",
+    "screen_name": "POTUS",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+    "user_mentions": [
+
+    ],
+    "media_url_https": "https://pbs.twimg.com/media/CI2oukAUsAA0GJG.jpg",
+    "hashtags": [
+      "AskPOTUS"
     ],
     "urls": [
 
     ]
   },
   {
-    "id_str": "782218662228942848",
-    "text": "Paid leave shouldn't be a luxury. It's a basic necessity that we should secure for every working American. https://t.co/OPeQiVPJlK",
-    "tweet_created_at": "2016-10-01 14:00:36 +0000",
+    "id_str": "616311028847112192",
+    "text": "Hello from Nashville! I'll be answering your questions on health care and the Affordable Care Act at 3:30pm ET. Tweet yours using #AskPOTUS.",
+    "tweet_created_at": "2015-07-01 18:22:54 +0000",
     "name": "President Obama",
     "screen_name": "POTUS",
     "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
@@ -453,10 +1109,10 @@
 
     ],
     "hashtags": [
-
+      "AskPOTUS"
     ],
     "urls": [
-      "https://t.co/OPeQiVPJlK"
+
     ]
   }
 ]

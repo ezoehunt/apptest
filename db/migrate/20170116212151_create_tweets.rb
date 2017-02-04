@@ -10,6 +10,7 @@ class CreateTweets < ActiveRecord::Migration[5.0]
       #t.jsonb :user_mentions, null: false, default: ''
       t.jsonb :user_mentions
       t.text :media_url_https
+      #t.jsonb :hashtags
       t.jsonb :hashtags
       t.jsonb :urls
       t.timestamps

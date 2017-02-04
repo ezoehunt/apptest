@@ -1,5 +1,7 @@
 class Tweet < ApplicationRecord
 
+  #serialize :hashtags, HashSerializer
+
   def before_import_save(record)
     # Your custom special sauce
   end

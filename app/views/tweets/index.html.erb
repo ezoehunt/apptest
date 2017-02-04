@@ -12,12 +12,10 @@
 
   <tbody>
     <% @tweets.each do |tweet| %>
-      <tr>
-        <td><%= tweet.text=text %></td>
-        <td><%= link_to 'Show', tweet %></td>
-        <td><%= link_to 'Edit', edit_tweet_path(tweet) %></td>
-        <td><%= link_to 'Destroy', tweet, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
+      <ul>
+        <li><%= tweet.text %>
+          <br/><%= link_to 'Show', tweet %>  <%= link_to 'Edit', edit_tweet_path(tweet) %>  <%= link_to 'Destroy', tweet, method: :delete, data: { confirm: 'Are you sure?' } %></li>
+      </ul>
     <% end %>
   </tbody>
 </table>

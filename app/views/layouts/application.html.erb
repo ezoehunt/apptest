@@ -19,7 +19,7 @@
 
 <%=
 
-file = File.read('/Users/mozilla/Sites/bestofpotus/public/data_in/tweets/obama_potus_2016_10.json')
+file = File.read('/Users/mozilla/Sites/bestofpotus/public/data_in/tweets/obama_potus_2015_07.json')
 fields = JSON.parse file
 
 fields.each do |key,value|
@@ -59,6 +59,7 @@ fields.each do |key,value|
     end
     if k == "hashtags"
       # Create empty array to hold all hashtags
+      # use "" to get rid of [] brackets in insert
       key["hashtags"] = []
       v.each do |k1,v1|
         k1.each do |k2,v2|
@@ -92,7 +93,7 @@ fields.each do |key,value|
   key.delete('entities')
 end
 
-File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2016_10.json', "w") do |f|
+File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2015_07.json', "w") do |f|
   f.puts JSON.pretty_generate(fields)
 end
 
