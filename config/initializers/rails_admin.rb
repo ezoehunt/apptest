@@ -10,7 +10,7 @@ RailsAdmin.config do |config|
   end
   config.current_user_method(&:current_user)
 
-  # +++++++++++++++++++++++++++++++++++
+# +++++++++++++++++++++++++++++++++++
   # RAILS ADMIN IMPORT GLOBAL SETTINGS
   # REQUIRED: Include the import action
   # See https://github.com/sferik/rails_admin/wiki/Actions
@@ -24,7 +24,7 @@ RailsAdmin.config do |config|
     config.logging = true
   end
 
-  # +++++++++++++++++++++++++++++++++++
+# +++++++++++++++++++++++++++++++++++
   # RAILS ADMIN IMPORT MODEL-SPECIFIC SETTINGS
   config.model 'Tweet' do
     import do
@@ -42,6 +42,7 @@ RailsAdmin.config do |config|
   #    exclude_fields :secret_token
   #  end
   #end
+# +++++++++++++++++++++++++++++++++++
 
   ## == Cancan ==
   # config.authorize_with :cancan
@@ -57,6 +58,12 @@ RailsAdmin.config do |config|
   ## == Gravatar integration ==
   ## To disable Gravatar integration in Navigation Bar set to false
   # config.show_gravatar true
+
+  # Custom additions
+  config.navigation_static_label = "Other Actions"
+  config.navigation_static_links = {
+      'Import from External' => '/admin/extimport'
+  }
 
   config.actions do
     dashboard                     # mandatory
