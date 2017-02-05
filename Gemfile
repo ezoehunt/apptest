@@ -43,7 +43,7 @@ gem "rails_admin_import", "~> 2.0"
 gem "json"
 
 # Admin
-gem 'devise'
+#gem 'devise'
 gem 'rails_admin', '~> 1.0'
 
 group :development, :test do

@@ -1,46 +1,12 @@
 RailsAdmin.config do |config|
 
-  config.main_app_name = ["Best of Potus"]
-
   ### Popular gems integration
 
   ## == Devise ==
-  config.authenticate_with do
-    warden.authenticate! scope: :user
-  end
-  config.current_user_method(&:current_user)
-
-  # RAILS ADMIN IMPORT
-  # REQUIRED:
-  # Include the import action
-  # See https://github.com/sferik/rails_admin/wiki/Actions
-  config.actions do
-    import
-  end
-
-  # RAILS ADMIN IMPORT SETTINGS
-  config.model 'Tweet' do
-    import do
-      include_all_fields
-      mapping_key :id_str
-    end
-  end
-
-  # Optional:
-  # Configure global RailsAdminImport options
-  config.configure_with(:import) do |config|
-    config.logging = true
-  end
-
-  # Optional:
-  # Configure model-specific options using standard RailsAdmin DSL
-  # See https://github.com/sferik/rails_admin/wiki/Railsadmin-DSL
-  #config.model 'User' do
-  #  import do
-  #    include_all_fields
-  #    exclude_fields :secret_token
-  #  end
-  #end
+  # config.authenticate_with do
+  #   warden.authenticate! scope: :user
+  # end
+  # config.current_user_method(&:current_user)
 
   ## == Cancan ==
   # config.authorize_with :cancan

@@ -85,6 +85,6 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   # for Devise
-  config.action_mailer.default_url_options = { host: 'http://www.bestofpotus.com' }
+  #config.action_mailer.default_url_options = { host: 'http://www.bestofpotus.com' }
 
 end
