@@ -16,18 +16,18 @@ ActiveRecord::Schema.define(version: 20170116212151) do
   enable_extension "plpgsql"
 
   create_table "tweets", force: :cascade do |t|
-    t.bigint   "id_str",                  null: false
-    t.datetime "tweet_created_at",        null: false
-    t.string   "name",                    null: false
-    t.text     "text",                    null: false
-    t.string   "screen_name",             null: false
-    t.text     "profile_image_url_https", null: false
-    t.jsonb    "user_mentions"
+    t.bigint   "id_str",                                 null: false
+    t.datetime "tweet_created_at",                       null: false
+    t.text     "text",                                   null: false
     t.text     "media_url_https"
-    t.jsonb    "hashtags"
+    t.string   "name",                                   null: false
+    t.string   "screen_name",                            null: false
+    t.text     "profile_image_url_https",                null: false
+    t.text     "hashtags",                default: [],                array: true
     t.jsonb    "urls"
-    t.datetime "created_at",              null: false
-    t.datetime "updated_at",              null: false
+    t.jsonb    "user_mentions",           default: "{}"
+    t.datetime "created_at",                             null: false
+    t.datetime "updated_at",                             null: false
   end
 
   create_table "users", force: :cascade do |t|

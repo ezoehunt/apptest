@@ -1,6 +1,6 @@
 class Tweet < ApplicationRecord
 
-  #serialize :hashtags, HashSerializer
+#serialize :user_mentions, HashSerializer
 
   def before_import_save(record)
     # Your custom special sauce
@@ -17,6 +17,7 @@ validates :name, :presence => true
 validates :text, :presence => true
 validates :screen_name, :presence => true
 validates :profile_image_url_https, :presence => true
+
 #validates :user_mentions, :presence => true
 #validates :media_url_https, :presence => true
 #validates :hashtags, :presence => true

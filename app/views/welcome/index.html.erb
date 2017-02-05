@@ -1,11 +1,43 @@
 <h1>Welcome#index</h1>
 
+<---%= puts @tweets.inspect %--->
+
+<---%= debug(@tweets) =%--->
+<%=
+=begin
+testing = []
+@tweets.each do |key, value|
+  value.each do |key2, value2|
+    testing << value2
+  end
+end
+=end
+%>
+
 <% @tweets.each do |tweet| %>
 <ul>
-  <li><%= tweet.tweet_created_at %>: <%= tweet.text %>
-    <br/>
+  <li>
+<br/>
+<font color=red>raw hashtags - <%= tweet.hashtags %></font>
+<br/>
 
-<%= tweet.hashtags %>
+<%
+=begin
+tweet.user_mentions.each do |tag|
+  puts tag
+
+end
+=end
+%>
+
+<br/><font color=green>user mentions - <%= tweet.user_mentions %></font>
+
+
+</font>
+<br/>
+
+
+
 
 
     <br/><%= link_to 'Show', tweet %>  <%= link_to 'Edit', edit_tweet_path(tweet) %>  <%= link_to 'Destroy', tweet, method: :delete, data: { confirm: 'Are you sure?' } %></li>

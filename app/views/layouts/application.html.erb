@@ -17,6 +17,7 @@
   </body>
 </html>
 
+
 <%=
 
 file = File.read('/Users/mozilla/Sites/bestofpotus/public/data_in/tweets/obama_potus_2015_07.json')
@@ -27,9 +28,10 @@ fields.each do |key,value|
   # with railsadmin column name
   key["tweet_created_at"] = key["created_at"]
   # Delete parts we dont need
-  key.delete('source')
-  key.delete('geo')
-  key.delete('id')
+  key.delete("source")
+  key.delete("geo")
+  key.delete("id")
+
   # Flatten profile info we need
   key["user"].each do |k,v|
     if k == "name"
@@ -42,6 +44,7 @@ fields.each do |key,value|
       key["profile_image_url_https"] = v
     end
   end
+
   # Flatten user mentions we need
   key["entities"].each do |k,v|
     if k == "user_mentions"
@@ -57,40 +60,33 @@ fields.each do |key,value|
         end
       end
     end
-    if k == "hashtags"
-      # Create empty array to hold all hashtags
-      # use "" to get rid of [] brackets in insert
-      key["hashtags"] = []
-      v.each do |k1,v1|
-        k1.each do |k2,v2|
-          if k2 == "text"
-            # Add all hashtags to array
-            key["hashtags"] << v2
-          end
-        end
-      end
-    end
-    #SAVE
-    #if k == "hashtags"
-    #  key["hashtags"] = v
-    #end
-    if k == "urls"
-      # Create empty array to hold all urls
-      key["urls"] = []
-      v.each do |k1,v1|
-        k1.each do |k2,v2|
-          if k2 == "url"
-            # Add all urls to array
-            key["urls"] << v2
-          end
-        end
-      end
+  end
+
+
+# ++++++++++++++++++++++
+  key["hashtags"] = []
+
+  if key["entities"]["hashtags"].present?
+    key["entities"]["hashtags"].each_with_index do |i, item|
+      # Remove indices
+      i.reject! {|x| x == "indices" }
+
+      #WORKS adds to multi array with index
+      key["hashtags"] << { item => i["text"] }
+      #key["hashtags"] << i["text"]
+
     end
   end
-  # Delete orig "created_at" + "user" + "entities"
-  key.delete('created_at')
-  key.delete('user')
-  key.delete('entities')
+# ++++++++++++++++++++++
+
+
+  # delete items no longer needed
+  key.delete("created_at")
+  key.delete("user")
+  #key.delete('entities')
+  key.delete("retweeted_status")
+
+# end main do
 end
 
 File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2015_07.json', "w") do |f|
