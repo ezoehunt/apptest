@@ -10,6 +10,39 @@ RailsAdmin.config do |config|
   end
   config.current_user_method(&:current_user)
 
+  # +++++++++++++++++++++++++++++++++++
+  # RAILS ADMIN IMPORT GLOBAL SETTINGS
+  # REQUIRED: Include the import action
+  # See https://github.com/sferik/rails_admin/wiki/Actions
+  config.actions do
+    import
+  end
+
+  # Optional:
+  # Configure global RailsAdminImport options
+  config.configure_with(:import) do |config|
+    config.logging = true
+  end
+
+  # +++++++++++++++++++++++++++++++++++
+  # RAILS ADMIN IMPORT MODEL-SPECIFIC SETTINGS
+  config.model 'Tweet' do
+    import do
+      include_all_fields
+      mapping_key :id_str
+    end
+  end
+
+  # Optional:
+  # Configure model-specific options using standard RailsAdmin DSL
+  # See https://github.com/sferik/rails_admin/wiki/Railsadmin-DSL
+  #config.model 'User' do
+  #  import do
+  #    include_all_fields
+  #    exclude_fields :secret_token
+  #  end
+  #end
+
   ## == Cancan ==
   # config.authorize_with :cancan
 

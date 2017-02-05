@@ -1,9 +1,8 @@
 Rails.application.routes.draw do
 
+resources :tweets
 devise_for :users
 mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
-
-#resources :tweets
 
 # ++++++++++++++++++++
 # routes regular users

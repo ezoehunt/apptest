@@ -40,6 +40,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Rails Admin Import
+# See https://github.com/stephskardal/rails_admin_import
 gem "rails_admin_import", "~> 2.0"
 
 
