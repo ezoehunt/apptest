@@ -10,15 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170205030942) do
+ActiveRecord::Schema.define(version: 20170205032719) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "tweets", force: :cascade do |t|
     t.text     "text"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",                null: false
+    t.datetime "updated_at",                null: false
+    t.jsonb    "hashtags",   default: "{}", null: false
+    t.index ["hashtags"], name: "index_tweets_on_hashtags", using: :gin
   end
 
   create_table "users", force: :cascade do |t|

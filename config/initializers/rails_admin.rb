@@ -29,7 +29,7 @@ RailsAdmin.config do |config|
   config.model 'Tweet' do
     import do
       include_all_fields
-      mapping_key :id_str
+      mapping_key :text
     end
   end
 
