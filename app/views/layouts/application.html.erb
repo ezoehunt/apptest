@@ -21,7 +21,8 @@
 <%=
 
 file = File.read('/Users/mozilla/Sites/bestofpotus/public/data_in/tweets/obama_potus_2015_07.json')
-fields = JSON.parse file
+
+fields = JSON.parse(file)
 
 fields.each do |key,value|
   # Change "created_at" key to avoid conflict
@@ -72,8 +73,10 @@ fields.each do |key,value|
       i.reject! {|x| x == "indices" }
 
       #WORKS adds to multi array with index
-      key["hashtags"] << { item => i["text"] }
-      #key["hashtags"] << i["text"]
+      #key["hashtags"] << { item => i["text"] }
+      key["hashtags"] << i["text"]
+
+      #h = JSON.parse string
 
     end
   end

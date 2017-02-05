@@ -18,12 +18,12 @@ end
 <ul>
   <li>
 <br/>
-<font color=red>raw hashtags - <%= tweet.hashtags %></font>
+<font color=red>raw hashtags - <%= tweet.hashtags.html_safe %></font>
 <br/>
 
 <%
 =begin
-tweet.user_mentions.each do |tag|
+tweet.hashtags.each do |tag|
   puts tag
 
 end

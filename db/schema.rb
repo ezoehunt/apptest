@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20170116212151) do
     t.string   "name",                                   null: false
     t.string   "screen_name",                            null: false
     t.text     "profile_image_url_https",                null: false
-    t.text     "hashtags",                default: [],                array: true
+    t.text     "hashtags"
     t.jsonb    "urls"
     t.jsonb    "user_mentions",           default: "{}"
     t.datetime "created_at",                             null: false

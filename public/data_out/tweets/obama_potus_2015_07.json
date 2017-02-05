@@ -67,12 +67,8 @@
       }
     ],
     "hashtags": [
-      {
-        "0": "AskPOTUS"
-      },
-      {
-        "1": "ACA"
-      }
+      "AskPOTUS",
+      "ACA"
     ]
   }
 ]
