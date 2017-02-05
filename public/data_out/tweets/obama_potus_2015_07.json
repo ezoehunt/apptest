@@ -2,8 +2,12 @@
   {
     "text": "RT @RandynAverysMom: #AskPOTUS my dad is a small biz owner and never had insurance. #ACA allowed him access to life saving cancer screening…",
     "hashtags": [
-      "AskPOTUS",
-      "ACA"
+      {
+        "0": "AskPOTUS"
+      },
+      {
+        "1": "ACA"
+      }
     ]
   }
 ]

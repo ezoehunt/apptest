@@ -27,73 +27,47 @@ fields = JSON.parse(file)
 fields.each do |key,value|
   # Change "created_at" key to avoid conflict
   # with railsadmin column name
-  key["tweet_created_at"] = key["created_at"]
+  # old here
+
   # Delete parts we dont need
   key.delete("source")
   key.delete("geo")
+  key.delete("retweeted_status")
   key.delete("id")
-
-  # Flatten profile info we need
-  key["user"].each do |k,v|
-    if k == "name"
-      key["name"] = v
-    end
-    if k == "screen_name"
-      key["screen_name"] = v
-    end
-    if k == "profile_image_url_https"
-      key["profile_image_url_https"] = v
-    end
-  end
-
-  # Flatten user mentions we need
-  key["entities"].each do |k,v|
-    if k == "user_mentions"
-      key["user_mentions"] = v
-    end
-    # Flatten media url we need
-    if k == "media"
-      v.each do |k1,v1|
-        k1.each do |k2,v2|
-          if k2 == "media_url_https"
-            key['media_url_https'] = v2
-          end
-        end
-      end
-    end
-  end
-
-
-# ++++++++++++++++++++++
-  key["hashtags"] = []
-
-  if key["entities"]["hashtags"].present?
-    key["entities"]["hashtags"].each_with_index do |i, item|
-      # Remove indices
-      i.reject! {|x| x == "indices" }
-
-      #WORKS adds to multi array with index
-      #key["hashtags"] << { item => i["text"] }
-      key["hashtags"] << i["text"]
-
-      #h = JSON.parse string
-
-    end
-  end
-# ++++++++++++++++++++++
-
-
-  # delete items no longer needed
+  key.delete("id_str")
   key.delete("created_at")
   key.delete("user")
-  #key.delete('entities')
-  key.delete("retweeted_status")
+
+  if key["entities"].present?
+    key["entities"].reject! {|x| x == "user_mentions" }
+    key["entities"].reject! {|x| x == "media" }
+    key["entities"].reject! {|x| x == "urls" }
+  end
+
+  if key["entities"]["hashtags"].present?
+    key["hashtags"] = []
+    key["entities"]["hashtags"].each_with_index do |item, i|
+      # Remove indices
+      item.reject! {|x| x == "indices" }
+
+      #WORKS adds to multi array with index
+      key["hashtags"] << { i => item["text"] }
+
+      #WORKS adds to same array, no index
+      #key["hashtags"] << item["text"]
+
+      # WORKS to create concatenated string
+      #key["hashtags"] = item["text"] + "," + key["hashtags"]
+
+    end
+    key.delete("entities")
+  end
 
 # end main do
 end
 
-#File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2015_07.json', "w") do |f|
-#  f.puts JSON.pretty_generate(fields)
-#end
+File.open('/Users/mozilla/Sites/bestofpotus/public/data_out/tweets/obama_potus_2015_07.json', "w") do |f|
+  f.puts JSON.pretty_generate(fields)
+end
 
 %>
