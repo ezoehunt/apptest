@@ -1,0 +1,15 @@
+.progress-bar-danger,
+.progress-bar-success,
+.progress-striped .progress-bar,
+.progress-bar-striped {
+  background-image: none !important;
+}
+
+.animate-width-to,
+.progress-bar,
+.progress-bar.active,
+.progress.active .progress-bar,
+.progress-bar {
+  -webkit-animation: none !important;
+  animation: none !important;
+}

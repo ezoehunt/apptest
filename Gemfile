@@ -43,10 +43,10 @@ gem 'jbuilder', '~> 2.5'
 # See https://github.com/stephskardal/rails_admin_import
 gem "rails_admin_import", "~> 2.0"
 
-
 # Admin
 gem 'devise'
 gem 'rails_admin', '~> 1.0'
+gem 'rails_admin_material'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
